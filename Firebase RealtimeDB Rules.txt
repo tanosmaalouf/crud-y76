@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "products": {
+      ".indexOn": ["title"],
+      ".read": true,
+      ".write": true
+    }
+
+  }
+}
